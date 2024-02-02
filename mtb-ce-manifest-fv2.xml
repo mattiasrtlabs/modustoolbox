@@ -148,6 +148,85 @@
       </version>
     </versions>
   </app>
+<app keywords="led,starter,hello world,mtb-flow" req_capabilities_v2="hal led [psoc6,t2gbe,xmc7000,t2gbh,t2gbh_lite,cyw920829m2evk_02] [flash_0k,flash_8384k,flash_2048k,flash_1024k,flash_512k,flash_256k,flash_832k,flash_448k,flash_4160k,cy8ckit_064b0s2_4343w]">
+    <name>RT-Labs Demo</name>
+    <id>mtb-example-hal-rtlabs_demo</id>
+    <category>Getting Started</category>
+    <uri>https://github.com/mattiasrtlabs/mtb-example-hal-rtlabs_demo</uri>
+    <description><![CDATA[RT-LABS Demo Code printing a "Hello RT-Labs" message on a terminal and blinking an LED using a timer resource. This code example is based on HAL (Hardware Abstraction Layer) libraries.
+    <br><br>For more details, see the <a href="https://github.com/mattiasrtlabs/mtb-example-hal-rtlabs_demo/blob/master/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>hal led</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="3.1.0" req_capabilities_per_version_v2="[bsp_gen5,bsp_gen4]">
+        <num>Latest 4.X release</num>
+        <commit>latest-v4.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="3.1.0" req_capabilities_per_version_v2="[bsp_gen5,bsp_gen4]">
+        <num>4.8.0 release</num>
+        <commit>release-v4.8.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="3.1.0" req_capabilities_per_version_v2="[bsp_gen5,bsp_gen4]">
+        <num>4.7.0 release</num>
+        <commit>release-v4.7.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="3.1.0" req_capabilities_per_version="bsp_gen4">
+        <num>4.6.0 release</num>
+        <commit>release-v4.6.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="bsp_gen4">
+        <num>4.5.0 release</num>
+        <commit>release-v4.5.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="bsp_gen4">
+        <num>4.4.0 release</num>
+        <commit>release-v4.4.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="bsp_gen4">
+        <num>4.3.0 release</num>
+        <commit>release-v4.3.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="bsp_gen4">
+        <num>4.2.0 release</num>
+        <commit>release-v4.2.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="bsp_gen4">
+        <num>4.1.0 release</num>
+        <commit>release-v4.1.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="bsp_gen4">
+        <num>4.0.0 release</num>
+        <commit>release-v4.0.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.4.0" tools_max_version="2.4.1" req_capabilities_per_version="bsp_gen3">
+        <num>Latest 3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.4.0" tools_max_version="2.4.1" req_capabilities_per_version="bsp_gen3">
+        <num>3.0.0 release</num>
+        <commit>release-v3.0.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" tools_max_version="2.4.1" req_capabilities_per_version="bsp_gen2">
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" tools_max_version="2.4.1" req_capabilities_per_version="bsp_gen2">
+        <num>2.2.0 release</num>
+        <commit>release-v2.2.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" tools_max_version="2.4.1" req_capabilities_per_version="bsp_gen2">
+        <num>2.1.0 release</num>
+        <commit>release-v2.1.0</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" tools_max_version="2.4.1" req_capabilities_per_version="bsp_gen2">
+        <num>2.0.1 release</num>
+        <commit>release-v2.0.1</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" tools_max_version="2.4.1" req_capabilities_per_version="bsp_gen2">
+        <num>2.0.0 release</num>
+        <commit>release-v2.0.0</commit>
+      </version>
+    </versions>
+  </app>  
   <app keywords="psoc6,led,lptimer,mtb-flow" req_capabilities_v2="led low_power switch [psoc6,t2gbe,cyw920829m2evk_02]">
     <name>HAL Low-Power Timer</name>
     <id>mtb-example-hal-lptimer</id>
