@@ -74,7 +74,7 @@
     <id>mtb-example-hal-hello-world</id>
     <category>Getting Started</category>
     <uri>https://github.com/Infineon/mtb-example-hal-hello-world</uri>
-    <description><![CDATA[ RTLABS This code example demonstrates a simple UART communication by printing a "Hello World" message on a terminal and blinking an LED using a timer resource. This code example is based on HAL (Hardware Abstraction Layer) libraries.
+    <description><![CDATA[RTLABS This code example demonstrates a simple UART communication by printing a "Hello World" message on a terminal and blinking an LED using a timer resource. This code example is based on HAL (Hardware Abstraction Layer) libraries.
     <br><br>For more details, see the <a href="https://github.com/Infineon/mtb-example-hal-hello-world/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>hal led</req_capabilities>
     <versions>
