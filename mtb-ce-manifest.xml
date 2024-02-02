@@ -78,8 +78,8 @@
   <app>
     <name>Hello World</name>
     <id>mtb-example-hal-hello-world-0</id>
-    <uri>https://github.com/Infineon/mtb-example-hal-hello-world</uri>
-    <description><![CDATA[This code example demonstrates simple UART communication by printing a "Hello World" message on a terminal and blinks an LED using a Timer resource using PSoC&#8482; 6 MCU.
+    <uri>https://github.com/mattiasrtlabs/modus_toolbox_hello_world</uri>
+    <description><![CDATA[Test app to verify importing a project into ModusToolbox
     <br><br>For more details, see the <a href="https://github.com/Infineon/mtb-example-hal-hello-world/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc6 led</req_capabilities>
     <versions>
