@@ -68,7 +68,7 @@
       <uri>https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml</uri>
     </middleware-manifest>
     <middleware-manifest>
-      <uri>https://github.com/mattiasrtlabs/modustoolbox/blob/main/rtlabs-mtb-mw-manifest-fw2.xml</uri>
+      <uri>https://raw.githubusercontent.com/mattiasrtlabs/modustoolbox/main/rtlabs-mtb-mw-manifest-fw2.xml</uri>
     </middleware-manifest>    
     <middleware-manifest>
       <uri>https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml</uri>
