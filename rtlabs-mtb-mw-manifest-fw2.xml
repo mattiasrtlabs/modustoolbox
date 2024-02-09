@@ -8,9 +8,9 @@
     <req_capabilities>mcu_gp hal</req_capabilities>
     <versions>
       <version flow_version="1.0,2.0">
-        <num>0.1 release</num>
+        <num>1.0.0 release</num>
         <commit>release-v1.0</commit>
-        <desc>0.1 release</desc>
+        <desc>1.0.0 release</desc>
       </version>
     </versions>
   </middleware>
